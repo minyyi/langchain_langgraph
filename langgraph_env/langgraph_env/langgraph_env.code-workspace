@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "langgraph_env",
+		"path": ".."
+	},
+	{
+		"name": "data",
+		"path": "../../../../../Users/KOSA/Downloads/data"
+	}
+],
+  "settings": {}
+}
